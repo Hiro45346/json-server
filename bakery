@@ -1,0 +1,7038 @@
+
+  
+  {
+    "bakery" :[
+    {
+      "type": "POI",
+      "id": "764009003157544",
+      "score": 2.5744864941,
+      "dist": 357.4418432860999,
+      "info": "search:ta:764009003157544-TH",
+      "poi": {
+        "name": "Bell Bakery Cafe",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.65142,
+        "lon": 100.48683
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65232,
+          "lon": 100.4859
+        },
+        "btmRightPoint": {
+          "lat": 13.65052,
+          "lon": 100.48776
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65143,
+            "lon": 100.48674
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003183642",
+      "score": 2.5744857788,
+      "dist": 361.4508609925591,
+      "info": "search:ta:764009003183642-TH",
+      "poi": {
+        "name": "Mao Nom",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Phuttha Bucha",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Phuttha Bucha, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.65096,
+        "lon": 100.4872
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65186,
+          "lon": 100.48627
+        },
+        "btmRightPoint": {
+          "lat": 13.65006,
+          "lon": 100.48813
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65115,
+            "lon": 100.48726
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003149561",
+      "score": 2.574300766,
+      "dist": 838.4324871039162,
+      "info": "search:ta:764009003149561-TH",
+      "poi": {
+        "name": "PonMaree Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.65087,
+        "lon": 100.49683
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65177,
+          "lon": 100.4959
+        },
+        "btmRightPoint": {
+          "lat": 13.64997,
+          "lon": 100.49776
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6509,
+            "lon": 100.4967
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001235794",
+      "score": 2.5742547512,
+      "dist": 919.8182345117268,
+      "info": "search:ta:764009001235794-TH",
+      "poi": {
+        "name": "Lue and Ann Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "81/8",
+        "streetName": "Soi Pracha Uthit 45",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "81/8, Soi Pracha Uthit 45, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.65057,
+        "lon": 100.49752
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65147,
+          "lon": 100.49659
+        },
+        "btmRightPoint": {
+          "lat": 13.64967,
+          "lon": 100.49845
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65066,
+            "lon": 100.49762
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003193327",
+      "score": 2.5742459297,
+      "dist": 934.7188584537342,
+      "info": "search:ta:764009003193327-TH",
+      "poi": {
+        "name": "Pang Wey 100",
+        "phone": "+66 61 451 5456",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64829,
+        "lon": 100.49642
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.64919,
+          "lon": 100.49549
+        },
+        "btmRightPoint": {
+          "lat": 13.64739,
+          "lon": 100.49735
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.64832,
+            "lon": 100.49629
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003226413",
+      "score": 2.5742352009,
+      "dist": 952.4481953838251,
+      "info": "search:ta:764009003226413-TH",
+      "poi": {
+        "name": "Pa Ka Ma Wan Yen",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Phuttha Bucha 36",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Phuttha Bucha 36, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64978,
+        "lon": 100.48147
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65068,
+          "lon": 100.48054
+        },
+        "btmRightPoint": {
+          "lat": 13.64888,
+          "lon": 100.4824
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.64986,
+            "lon": 100.48124
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003220314",
+      "score": 2.573882103,
+      "dist": 1414.5462248981482,
+      "info": "search:ta:764009003220314-TH",
+      "poi": {
+        "name": "Roti Ong",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64434,
+        "lon": 100.49876
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.64524,
+          "lon": 100.49783
+        },
+        "btmRightPoint": {
+          "lat": 13.64344,
+          "lon": 100.49969
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.64437,
+            "lon": 100.49889
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002288683",
+      "score": 2.5738260746,
+      "dist": 1474.866264545022,
+      "info": "search:ta:764009002288683-TH",
+      "poi": {
+        "name": "Waen Bread Custard",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.65976,
+        "lon": 100.50143
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66066,
+          "lon": 100.5005
+        },
+        "btmRightPoint": {
+          "lat": 13.65886,
+          "lon": 100.50236
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65983,
+            "lon": 100.50132
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002299890",
+      "score": 2.5738089085,
+      "dist": 1492.6330282349415,
+      "info": "search:ta:764009002299890-TH",
+      "poi": {
+        "name": "Ben Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 54",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 54, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64355,
+        "lon": 100.49896
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.64445,
+          "lon": 100.49803
+        },
+        "btmRightPoint": {
+          "lat": 13.64265,
+          "lon": 100.49989
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.64365,
+            "lon": 100.49894
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000024714",
+      "score": 2.5737185478,
+      "dist": 1584.015379934998,
+      "info": "search:ta:764007000024714-TH",
+      "poi": {
+        "name": "Pooh Poom Bakery",
+        "phone": "+66 95 732 2105",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 59 Yaek 5",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 59 Yaek 5, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64668,
+        "lon": 100.50246
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.64758,
+          "lon": 100.50153
+        },
+        "btmRightPoint": {
+          "lat": 13.64578,
+          "lon": 100.50339
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6467,
+            "lon": 100.50234
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001265592",
+      "score": 2.5736839771,
+      "dist": 1617.325784386964,
+      "info": "search:ta:764009001265592-TH",
+      "poi": {
+        "name": "Sitthichok Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "396/11",
+        "streetName": "Soi Pracha Uthit 67",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "396/11, Soi Pracha Uthit 67, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64266,
+        "lon": 100.49967
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.64356,
+          "lon": 100.49874
+        },
+        "btmRightPoint": {
+          "lat": 13.64176,
+          "lon": 100.5006
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.64258,
+            "lon": 100.49971
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003368224",
+      "score": 2.5735709667,
+      "dist": 1722.515869133713,
+      "info": "search:ta:764009003368224-TH",
+      "poi": {
+        "name": "Kiat Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 27",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 27, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.65914,
+        "lon": 100.50427
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66004,
+          "lon": 100.50334
+        },
+        "btmRightPoint": {
+          "lat": 13.65824,
+          "lon": 100.5052
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65901,
+            "lon": 100.50419
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003154490",
+      "score": 2.5734379292,
+      "dist": 1838.3316827321203,
+      "info": "search:ta:764009003154490-TH",
+      "poi": {
+        "name": "Roti Bun",
+        "phone": "+66 88 606 7586",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 69",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 69, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64186,
+        "lon": 100.50175
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.64276,
+          "lon": 100.50082
+        },
+        "btmRightPoint": {
+          "lat": 13.64096,
+          "lon": 100.50268
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.64195,
+            "lon": 100.50171
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000027454",
+      "score": 2.5732932091,
+      "dist": 1956.8616089841732,
+      "info": "search:ta:764007000027454-TH",
+      "poi": {
+        "name": "S&P Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 58/2",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 58/2, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.63893,
+        "lon": 100.49991
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.63983,
+          "lon": 100.49898
+        },
+        "btmRightPoint": {
+          "lat": 13.63803,
+          "lon": 100.50084
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.63914,
+            "lon": 100.49982
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003212811",
+      "score": 2.573112011,
+      "dist": 2095.707825739589,
+      "info": "search:ta:764009003212811-TH",
+      "poi": {
+        "name": "Tae Seng Heng",
+        "phone": "+66 2 873 6551",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.63819,
+        "lon": 100.50105
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.63909,
+          "lon": 100.50012
+        },
+        "btmRightPoint": {
+          "lat": 13.63729,
+          "lon": 100.50198
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.63823,
+            "lon": 100.50113
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001243646",
+      "score": 2.5731008053,
+      "dist": 2103.909673940422,
+      "info": "search:ta:764009001243646-TH",
+      "poi": {
+        "name": "Nakorn Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "825/783",
+        "streetName": "Soi Pracha Uthit 60",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "825/783, Soi Pracha Uthit 60, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.63802,
+        "lon": 100.50094
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.63892,
+          "lon": 100.50001
+        },
+        "btmRightPoint": {
+          "lat": 13.63712,
+          "lon": 100.50187
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.63785,
+            "lon": 100.5011
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003161706",
+      "score": 2.5730931759,
+      "dist": 2109.6464151617533,
+      "info": "search:ta:764009003161706-TH",
+      "poi": {
+        "name": "Lavia Bake",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.63807,
+        "lon": 100.5011
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.63897,
+          "lon": 100.50017
+        },
+        "btmRightPoint": {
+          "lat": 13.63717,
+          "lon": 100.50203
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.63811,
+            "lon": 100.50119
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003216194",
+      "score": 2.5730400085,
+      "dist": 2148.528010958242,
+      "info": "search:ta:764009003216194-TH",
+      "poi": {
+        "name": "Kiaokoi Bekery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6665,
+        "lon": 100.50404
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6674,
+          "lon": 100.50311
+        },
+        "btmRightPoint": {
+          "lat": 13.6656,
+          "lon": 100.50497
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66647,
+            "lon": 100.50416
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003199241",
+      "score": 2.5729928017,
+      "dist": 2182.284927391758,
+      "info": "search:ta:764009003199241-TH",
+      "poi": {
+        "name": "Bat Toe Oi",
+        "phone": "+66 91 215 1255",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 10",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 10, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66685,
+        "lon": 100.50413
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66775,
+          "lon": 100.5032
+        },
+        "btmRightPoint": {
+          "lat": 13.66595,
+          "lon": 100.50506
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66697,
+            "lon": 100.50417
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001257651",
+      "score": 2.5729334354,
+      "dist": 2224.0047577156165,
+      "info": "search:ta:764009001257651-TH",
+      "poi": {
+        "name": "Thai Homes Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 8",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 8, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66729,
+        "lon": 100.50423
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66819,
+          "lon": 100.5033
+        },
+        "btmRightPoint": {
+          "lat": 13.66639,
+          "lon": 100.50516
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66738,
+            "lon": 100.50426
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003212804",
+      "score": 2.5728991032,
+      "dist": 2248.0283588672555,
+      "info": "search:ta:764009003212804-TH",
+      "poi": {
+        "name": "Woen Pao",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Ban Suan Rim Khlong Bangmod",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Ban Suan Rim Khlong Bangmod, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66208,
+        "lon": 100.47074
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66298,
+          "lon": 100.46981
+        },
+        "btmRightPoint": {
+          "lat": 13.66118,
+          "lon": 100.47167
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66209,
+            "lon": 100.47083
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009000561315",
+      "score": 2.5728394985,
+      "dist": 2288.9234536106346,
+      "info": "search:ta:764009000561315-TH",
+      "poi": {
+        "name": "Chaikamol Ceramic",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.63653,
+        "lon": 100.50174
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.63743,
+          "lon": 100.50081
+        },
+        "btmRightPoint": {
+          "lat": 13.63563,
+          "lon": 100.50267
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.63658,
+            "lon": 100.50184
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003447030",
+      "score": 2.5719423294,
+      "dist": 2833.9894457409814,
+      "info": "search:ta:764009003447030-TH",
+      "poi": {
+        "name": "Pang Wei Hey",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Suk Sawat",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Suk Sawat, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6763,
+        "lon": 100.50085
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6772,
+          "lon": 100.49992
+        },
+        "btmRightPoint": {
+          "lat": 13.6754,
+          "lon": 100.50178
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67642,
+            "lon": 100.50093
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003154542",
+      "score": 2.5718176365,
+      "dist": 2901.666698979686,
+      "info": "search:ta:764009003154542-TH",
+      "poi": {
+        "name": "Chern Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Phuttha Bucha",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Phuttha Bucha, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6732,
+        "lon": 100.47209
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6741,
+          "lon": 100.47116
+        },
+        "btmRightPoint": {
+          "lat": 13.6723,
+          "lon": 100.47302
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67328,
+            "lon": 100.47224
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001031117",
+      "score": 2.5717823505,
+      "dist": 2920.5129683983787,
+      "info": "search:ta:764009001031117-TH",
+      "poi": {
+        "name": "Active Ceramic Center Group",
+        "phone": "+66 2 427 7440",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Suk Sawat",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Suk Sawat, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67359,
+        "lon": 100.50669
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67449,
+          "lon": 100.50576
+        },
+        "btmRightPoint": {
+          "lat": 13.67269,
+          "lon": 100.50762
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67314,
+            "lon": 100.50643
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003458246",
+      "score": 2.5717599392,
+      "dist": 2932.464275927451,
+      "info": "search:ta:764009003458246-TH",
+      "poi": {
+        "name": "Daddy Dough",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Suk Sawat 30",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Suk Sawat 30, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67891,
+        "lon": 100.49608
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67981,
+          "lon": 100.49515
+        },
+        "btmRightPoint": {
+          "lat": 13.67801,
+          "lon": 100.49701
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67906,
+            "lon": 100.49575
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002346585",
+      "score": 2.5717279911,
+      "dist": 2949.4499756565915,
+      "info": "search:ta:764009002346585-TH",
+      "poi": {
+        "name": "Khu Sang Bakermart",
+        "phone": "+66 2 816 2725",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Talat Bang Plakok",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Talat Bang Plakok, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67788,
+        "lon": 100.49982
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67878,
+          "lon": 100.49889
+        },
+        "btmRightPoint": {
+          "lat": 13.67698,
+          "lon": 100.50075
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67785,
+            "lon": 100.49991
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002346226",
+      "score": 2.5716803074,
+      "dist": 2974.481651062218,
+      "info": "search:ta:764009002346226-TH",
+      "poi": {
+        "name": "Pricha Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Talat Bang Plakok",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Talat Bang Plakok, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6779,
+        "lon": 100.50037
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6788,
+          "lon": 100.49944
+        },
+        "btmRightPoint": {
+          "lat": 13.677,
+          "lon": 100.5013
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67787,
+            "lon": 100.50048
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000011626",
+      "score": 2.5715939999,
+      "dist": 3019.46974708561,
+      "info": "search:ta:764007000011626-TH",
+      "poi": {
+        "name": "The Cakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67787,
+        "lon": 100.50145
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67877,
+          "lon": 100.50052
+        },
+        "btmRightPoint": {
+          "lat": 13.67697,
+          "lon": 100.50238
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67795,
+            "lon": 100.50109
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003223963",
+      "score": 2.5714159012,
+      "dist": 3110.077972358526,
+      "info": "search:ta:764009003223963-TH",
+      "poi": {
+        "name": "เบเกอรี่",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "ซอยสุขสวัสดิ์ 64",
+        "municipalitySubdivision": "บางพึ่ง",
+        "municipality": "พระประแดง",
+        "countrySecondarySubdivision": "อำเภอ พระประแดง",
+        "countrySubdivision": "จังหวัด สมุทรปราการ",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "ประเทศไทย",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "ซอยสุขสวัสดิ์ 64, บางพึ่ง Sub District, อำเภอ พระประแดง District, จังหวัด สมุทรปราการ 10130",
+        "localName": "อำเภอ พระประแดง"
+      },
+      "position": {
+        "lat": 13.64939,
+        "lon": 100.51799
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65029,
+          "lon": 100.51706
+        },
+        "btmRightPoint": {
+          "lat": 13.64849,
+          "lon": 100.51892
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6493,
+            "lon": 100.51797
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001506637",
+      "score": 2.5713124275,
+      "dist": 3161.559185135491,
+      "info": "search:ta:764009001506637-TH",
+      "poi": {
+        "name": "Bake A Wish Japanese Home Made Cake",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Suk Sawat 19",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Suk Sawat 19, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68128,
+        "lon": 100.49484
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68218,
+          "lon": 100.49391
+        },
+        "btmRightPoint": {
+          "lat": 13.68038,
+          "lon": 100.49577
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68131,
+            "lon": 100.49472
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001247557",
+      "score": 2.5712685585,
+      "dist": 3183.096595928307,
+      "info": "search:ta:764009001247557-TH",
+      "poi": {
+        "name": "Boom Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "122/136",
+        "streetName": "Soi Pracha Uthit 91",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "122/136, Soi Pracha Uthit 91, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.62885,
+        "lon": 100.50477
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.62975,
+          "lon": 100.50384
+        },
+        "btmRightPoint": {
+          "lat": 13.62795,
+          "lon": 100.5057
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.62894,
+            "lon": 100.50473
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003181514",
+      "score": 2.5709171295,
+      "dist": 3350.9434781365094,
+      "info": "search:ta:764009003181514-TH",
+      "poi": {
+        "name": "Thong Ki Phattakhan",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68204,
+        "lon": 100.48008
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68294,
+          "lon": 100.47915
+        },
+        "btmRightPoint": {
+          "lat": 13.68114,
+          "lon": 100.48101
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68213,
+            "lon": 100.48006
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003212085",
+      "score": 2.5709125996,
+      "dist": 3353.080271496059,
+      "info": "search:ta:764009003212085-TH",
+      "poi": {
+        "name": "Phattakhan Chiang Ka Ri La",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rama II Soi 11",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Rama II Soi 11, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68194,
+        "lon": 100.4797
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68284,
+          "lon": 100.47877
+        },
+        "btmRightPoint": {
+          "lat": 13.68104,
+          "lon": 100.48063
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68192,
+            "lon": 100.47961
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003202407",
+      "score": 2.5708835125,
+      "dist": 3366.7176062237327,
+      "info": "search:ta:764009003202407-TH",
+      "poi": {
+        "name": "Prapha Si",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rama II Soi 17",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Rama II Soi 17, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68156,
+        "lon": 100.47824
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68246,
+          "lon": 100.47731
+        },
+        "btmRightPoint": {
+          "lat": 13.68066,
+          "lon": 100.47917
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68155,
+            "lon": 100.47815
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000012838",
+      "score": 2.57087183,
+      "dist": 3372.0025997573775,
+      "info": "search:ta:764007000012838-TH",
+      "poi": {
+        "name": "The Cakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68347,
+        "lon": 100.4929
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68437,
+          "lon": 100.49197
+        },
+        "btmRightPoint": {
+          "lat": 13.68257,
+          "lon": 100.49383
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6833,
+            "lon": 100.4933
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000036990",
+      "score": 2.5708613396,
+      "dist": 3376.8386118387266,
+      "info": "search:ta:764007000036990-TH",
+      "poi": {
+        "name": "มิสมาม่อน",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "ซอยหมู่บ้านบิซทาวน์ พระราม 3-สุขสวัสดิ์",
+        "municipalitySubdivision": "บางพึ่ง",
+        "municipality": "พระประแดง",
+        "countrySecondarySubdivision": "อำเภอ พระประแดง",
+        "countrySubdivision": "จังหวัด สมุทรปราการ",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "ประเทศไทย",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "ซอยหมู่บ้านบิซทาวน์ พระราม 3-สุขสวัสดิ์, บางพึ่ง Sub District, อำเภอ พระประแดง District, จังหวัด สมุทรปราการ 10130",
+        "localName": "อำเภอ พระประแดง"
+      },
+      "position": {
+        "lat": 13.65276,
+        "lon": 100.52074
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65366,
+          "lon": 100.51981
+        },
+        "btmRightPoint": {
+          "lat": 13.65186,
+          "lon": 100.52167
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65242,
+            "lon": 100.5209
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003153677",
+      "score": 2.5706984997,
+      "dist": 3451.360781006423,
+      "info": "search:ta:764009003153677-TH",
+      "poi": {
+        "name": "Bakery De You",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68287,
+        "lon": 100.4797
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68377,
+          "lon": 100.47877
+        },
+        "btmRightPoint": {
+          "lat": 13.68197,
+          "lon": 100.48063
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6827,
+            "lon": 100.47974
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009000959483",
+      "score": 2.5706973076,
+      "dist": 3451.9377285988285,
+      "info": "search:ta:764009000959483-TH",
+      "poi": {
+        "name": "Thung Khru Tile Market",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.62683,
+        "lon": 100.50614
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.62773,
+          "lon": 100.50521
+        },
+        "btmRightPoint": {
+          "lat": 13.62593,
+          "lon": 100.50707
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.62693,
+            "lon": 100.50607
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009000533360",
+      "score": 2.5705862045,
+      "dist": 3501.888183917882,
+      "info": "search:ta:764009000533360-TH",
+      "poi": {
+        "name": "Thonburi Ceramic",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "425/3",
+        "streetName": "Thanon Rat Burana",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "425/3, Thanon Rat Burana, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68199,
+        "lon": 100.50292
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68289,
+          "lon": 100.50199
+        },
+        "btmRightPoint": {
+          "lat": 13.68109,
+          "lon": 100.50385
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68216,
+            "lon": 100.50293
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003191202",
+      "score": 2.5705797672,
+      "dist": 3504.730746739087,
+      "info": "search:ta:764009003191202-TH",
+      "poi": {
+        "name": "Lecker",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68001,
+        "lon": 100.47223
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68091,
+          "lon": 100.4713
+        },
+        "btmRightPoint": {
+          "lat": 13.67911,
+          "lon": 100.47316
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6802,
+            "lon": 100.4722
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003067143",
+      "score": 2.5705549717,
+      "dist": 3515.7008383853854,
+      "info": "search:ta:764009003067143-TH",
+      "poi": {
+        "name": "อะมอร์",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "บางพึ่ง",
+        "municipality": "พระประแดง",
+        "countrySecondarySubdivision": "อำเภอ พระประแดง",
+        "countrySubdivision": "จังหวัด สมุทรปราการ",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "ประเทศไทย",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "บางพึ่ง Sub District, อำเภอ พระประแดง District, จังหวัด สมุทรปราการ 10130",
+        "localName": "อำเภอ พระประแดง"
+      },
+      "position": {
+        "lat": 13.65352,
+        "lon": 100.52203
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65442,
+          "lon": 100.5211
+        },
+        "btmRightPoint": {
+          "lat": 13.65262,
+          "lon": 100.52296
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65341,
+            "lon": 100.52175
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002991390",
+      "score": 2.570530653,
+      "dist": 3526.4881315269445,
+      "info": "search:ta:764009002991390-TH",
+      "poi": {
+        "name": "มิสเตอร์แอนด์มิสซิส วาฟเฟิล",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "บางพึ่ง",
+        "municipality": "พระประแดง",
+        "countrySecondarySubdivision": "อำเภอ พระประแดง",
+        "countrySubdivision": "จังหวัด สมุทรปราการ",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "ประเทศไทย",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "บางพึ่ง Sub District, อำเภอ พระประแดง District, จังหวัด สมุทรปราการ 10130",
+        "localName": "อำเภอ พระประแดง"
+      },
+      "position": {
+        "lat": 13.65413,
+        "lon": 100.52212
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65503,
+          "lon": 100.52119
+        },
+        "btmRightPoint": {
+          "lat": 13.65323,
+          "lon": 100.52305
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6544,
+            "lon": 100.52201
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003050434",
+      "score": 2.5704984665,
+      "dist": 3540.7563269487464,
+      "info": "search:ta:764009003050434-TH",
+      "poi": {
+        "name": "บองชู",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "บางพึ่ง",
+        "municipality": "พระประแดง",
+        "countrySecondarySubdivision": "อำเภอ พระประแดง",
+        "countrySubdivision": "จังหวัด สมุทรปราการ",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "ประเทศไทย",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "บางพึ่ง Sub District, อำเภอ พระประแดง District, จังหวัด สมุทรปราการ 10130",
+        "localName": "อำเภอ พระประแดง"
+      },
+      "position": {
+        "lat": 13.65372,
+        "lon": 100.52226
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65462,
+          "lon": 100.52133
+        },
+        "btmRightPoint": {
+          "lat": 13.65282,
+          "lon": 100.52319
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65326,
+            "lon": 100.52238
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003190034",
+      "score": 2.570442915,
+      "dist": 3565.258521782082,
+      "info": "search:ta:764009003190034-TH",
+      "poi": {
+        "name": "Nam Taohu Mueang Thong",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 76 Yaek 4/2",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 76 Yaek 4/2, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.62277,
+        "lon": 100.49949
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.62367,
+          "lon": 100.49856
+        },
+        "btmRightPoint": {
+          "lat": 13.62187,
+          "lon": 100.50042
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.62286,
+            "lon": 100.49949
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000035260",
+      "score": 2.5703947544,
+      "dist": 3586.319131308917,
+      "info": "search:ta:764007000035260-TH",
+      "poi": {
+        "name": "เบคอะวิช",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "บางพึ่ง",
+        "municipality": "พระประแดง",
+        "countrySecondarySubdivision": "อำเภอ พระประแดง",
+        "countrySubdivision": "จังหวัด สมุทรปราการ",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "ประเทศไทย",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "บางพึ่ง Sub District, อำเภอ พระประแดง District, จังหวัด สมุทรปราการ 10130",
+        "localName": "อำเภอ พระประแดง"
+      },
+      "position": {
+        "lat": 13.65427,
+        "lon": 100.52267
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.65517,
+          "lon": 100.52174
+        },
+        "btmRightPoint": {
+          "lat": 13.65337,
+          "lon": 100.5236
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65442,
+            "lon": 100.52313
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001221879",
+      "score": 2.5701248646,
+      "dist": 3702.1575510722896,
+      "info": "search:ta:764009001221879-TH",
+      "poi": {
+        "name": "Chao Chom Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "525/49",
+        "streetName": "Soi Suk Sawat 16",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "525/49, Soi Suk Sawat 16, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68637,
+        "lon": 100.4853
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68727,
+          "lon": 100.48437
+        },
+        "btmRightPoint": {
+          "lat": 13.68547,
+          "lon": 100.48623
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6866,
+            "lon": 100.48521
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001252671",
+      "score": 2.5700659752,
+      "dist": 3726.8799380720648,
+      "info": "search:ta:764009001252671-TH",
+      "poi": {
+        "name": "Plum Bakery Hut",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67748,
+        "lon": 100.46558
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67838,
+          "lon": 100.46465
+        },
+        "btmRightPoint": {
+          "lat": 13.67658,
+          "lon": 100.46651
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67744,
+            "lon": 100.4655
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003192312",
+      "score": 2.5698320866,
+      "dist": 3823.9205927285952,
+      "info": "search:ta:764009003192312-TH",
+      "poi": {
+        "name": "Bakery Mind",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rat Burana",
+        "municipalitySubdivision": "Rat Burana",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rat Burana, Rat Burana Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67687,
+        "lon": 100.51529
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67777,
+          "lon": 100.51436
+        },
+        "btmRightPoint": {
+          "lat": 13.67597,
+          "lon": 100.51622
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6768,
+            "lon": 100.51524
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003191982",
+      "score": 2.5697059631,
+      "dist": 3875.1822109783775,
+      "info": "search:ta:764009003191982-TH",
+      "poi": {
+        "name": "Pang Wan",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6754,
+        "lon": 100.46174
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6763,
+          "lon": 100.46081
+        },
+        "btmRightPoint": {
+          "lat": 13.6745,
+          "lon": 100.46267
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67553,
+            "lon": 100.46165
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001232325",
+      "score": 2.5696260929,
+      "dist": 3907.3306224651105,
+      "info": "search:ta:764009001232325-TH",
+      "poi": {
+        "name": "Puk Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 78",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 78, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.62367,
+        "lon": 100.50889
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.62457,
+          "lon": 100.50796
+        },
+        "btmRightPoint": {
+          "lat": 13.62277,
+          "lon": 100.50982
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.62375,
+            "lon": 100.50884
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003157654",
+      "score": 2.5695550442,
+      "dist": 3935.697710063349,
+      "info": "search:ta:764009003157654-TH",
+      "poi": {
+        "name": "อิ-โอ",
+        "phone": "+66 86 072 2704",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "ซอยสุขสวัสดิ์ 70",
+        "municipalitySubdivision": "บางครุ",
+        "municipality": "พระประแดง",
+        "countrySecondarySubdivision": "อำเภอ พระประแดง",
+        "countrySubdivision": "จังหวัด สมุทรปราการ",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "ประเทศไทย",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "ซอยสุขสวัสดิ์ 70, บางครุ Sub District, อำเภอ พระประแดง District, จังหวัด สมุทรปราการ 10130",
+        "localName": "อำเภอ พระประแดง"
+      },
+      "position": {
+        "lat": 13.63795,
+        "lon": 100.5223
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.63885,
+          "lon": 100.52137
+        },
+        "btmRightPoint": {
+          "lat": 13.63705,
+          "lon": 100.52323
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.63802,
+            "lon": 100.52224
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001215515",
+      "score": 2.5695228577,
+      "dist": 3948.5795772709967,
+      "info": "search:ta:764009001215515-TH",
+      "poi": {
+        "name": "Nong Nung Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "85/472",
+        "streetName": "Rama II Soi 43",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "85/472, Rama II Soi 43, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67022,
+        "lon": 100.45735
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67112,
+          "lon": 100.45642
+        },
+        "btmRightPoint": {
+          "lat": 13.66932,
+          "lon": 100.45828
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67019,
+            "lon": 100.45721
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000013776",
+      "score": 2.5694861412,
+      "dist": 3963.0244561403993,
+      "info": "search:ta:764007000013776-TH",
+      "poi": {
+        "name": "Love Cartoon Cake",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Sintawee Villa 6",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Sintawee Villa 6, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67006,
+        "lon": 100.45711
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67096,
+          "lon": 100.45618
+        },
+        "btmRightPoint": {
+          "lat": 13.66916,
+          "lon": 100.45804
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67015,
+            "lon": 100.45708
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001257895",
+      "score": 2.5694711208,
+      "dist": 3968.9905039247888,
+      "info": "search:ta:764009001257895-TH",
+      "poi": {
+        "name": "OK Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "14/138",
+        "streetName": "Soi Suk Sawat 14/4",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "14/138, Soi Suk Sawat 14/4, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68822,
+        "lon": 100.48176
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68912,
+          "lon": 100.48083
+        },
+        "btmRightPoint": {
+          "lat": 13.68732,
+          "lon": 100.48269
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6881,
+            "lon": 100.48165
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001212609",
+      "score": 2.5694248676,
+      "dist": 3987.230458426509,
+      "info": "search:ta:764009001212609-TH",
+      "poi": {
+        "name": "Jamjuree Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "443/12",
+        "streetName": "Soi Suk Sawat 10",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "443/12, Soi Suk Sawat 10, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6885,
+        "lon": 100.48232
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6894,
+          "lon": 100.48139
+        },
+        "btmRightPoint": {
+          "lat": 13.6876,
+          "lon": 100.48325
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68859,
+            "lon": 100.48229
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009000675813",
+      "score": 2.5693025589,
+      "dist": 4034.9373029850053,
+      "info": "search:ta:764009000675813-TH",
+      "poi": {
+        "name": "Joy Bakery Mart",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "56/11",
+        "streetName": "Soi Pracha Uthit 97/2",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "56/11, Soi Pracha Uthit 97/2, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.62302,
+        "lon": 100.51003
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.62392,
+          "lon": 100.5091
+        },
+        "btmRightPoint": {
+          "lat": 13.62212,
+          "lon": 100.51096
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.62304,
+            "lon": 100.51015
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001215287",
+      "score": 2.5687885284,
+      "dist": 4230.07726078116,
+      "info": "search:ta:764009001215287-TH",
+      "poi": {
+        "name": "Si Dao Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "10/176",
+        "streetName": "Rama II Soi 28 Yaek 6",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "10/176, Rama II Soi 28 Yaek 6, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68298,
+        "lon": 100.46497
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68388,
+          "lon": 100.46404
+        },
+        "btmRightPoint": {
+          "lat": 13.68208,
+          "lon": 100.4659
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68308,
+            "lon": 100.46495
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001537470",
+      "score": 2.5687785149,
+      "dist": 4233.776538888601,
+      "info": "search:ta:764009001537470-TH",
+      "poi": {
+        "name": "Chai Wat Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Suk Sawat 70 Soi 3",
+        "municipalitySubdivision": "Bang Khru",
+        "municipality": "Phra Pradaeng",
+        "countrySecondarySubdivision": "Amphoe Phra Pradaeng",
+        "countrySubdivision": "Changwat Samut Prakan",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Suk Sawat 70 Soi 3, Bang Khru Sub District, Amphoe Phra Pradaeng District, Changwat Samut Prakan 10130",
+        "localName": "Amphoe Phra Pradaeng"
+      },
+      "position": {
+        "lat": 13.63882,
+        "lon": 100.52572
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.63972,
+          "lon": 100.52479
+        },
+        "btmRightPoint": {
+          "lat": 13.63792,
+          "lon": 100.52665
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.63891,
+            "lon": 100.52575
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003209977",
+      "score": 2.5683836937,
+      "dist": 4377.809161239892,
+      "info": "search:ta:764009003209977-TH",
+      "poi": {
+        "name": "Ran Pang Woei Hoei",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "3559/3-3559/4",
+        "streetName": "Rama III Soi 16",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "3559/3-3559/4, Rama III Soi 16, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69033,
+        "lon": 100.50333
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69123,
+          "lon": 100.5024
+        },
+        "btmRightPoint": {
+          "lat": 13.68943,
+          "lon": 100.50426
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69041,
+            "lon": 100.50313
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001216563",
+      "score": 2.5683476925,
+      "dist": 4390.731793812182,
+      "info": "search:ta:764009001216563-TH",
+      "poi": {
+        "name": "Montien Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "372",
+        "streetName": "Thanon Rama III",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "372, Thanon Rama III, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68855,
+        "lon": 100.50786
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6896,
+          "lon": 100.50678
+        },
+        "btmRightPoint": {
+          "lat": 13.6875,
+          "lon": 100.50894
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68954,
+            "lon": 100.50823
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002162815",
+      "score": 2.5681984425,
+      "dist": 4443.7800683200985,
+      "info": "search:ta:764009002162815-TH",
+      "poi": {
+        "name": "Pan Cafe",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6692,
+        "lon": 100.45175
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6701,
+          "lon": 100.45082
+        },
+        "btmRightPoint": {
+          "lat": 13.6683,
+          "lon": 100.45268
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66948,
+            "lon": 100.45158
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002162737",
+      "score": 2.5681984425,
+      "dist": 4443.7800683200985,
+      "info": "search:ta:764009002162737-TH",
+      "poi": {
+        "name": "Sammatta",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6692,
+        "lon": 100.45175
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6701,
+          "lon": 100.45082
+        },
+        "btmRightPoint": {
+          "lat": 13.6683,
+          "lon": 100.45268
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66948,
+            "lon": 100.45158
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003197284",
+      "score": 2.567997694,
+      "dist": 4514.231609112573,
+      "info": "search:ta:764009003197284-TH",
+      "poi": {
+        "name": "Caramel Bakery",
+        "phone": "+66 99 131 5857",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Song Thum",
+        "municipalitySubdivision": "Talat",
+        "municipality": "Phra Pradaeng",
+        "countrySecondarySubdivision": "Amphoe Phra Pradaeng",
+        "countrySubdivision": "Changwat Samut Prakan",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Song Thum, Talat Sub District, Amphoe Phra Pradaeng District, Changwat Samut Prakan 10130",
+        "localName": "Amphoe Phra Pradaeng"
+      },
+      "position": {
+        "lat": 13.66619,
+        "lon": 100.52912
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66709,
+          "lon": 100.52819
+        },
+        "btmRightPoint": {
+          "lat": 13.66529,
+          "lon": 100.53005
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66613,
+            "lon": 100.52904
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000009565",
+      "score": 2.5679519176,
+      "dist": 4530.168992770942,
+      "info": "search:ta:764007000009565-TH",
+      "poi": {
+        "name": "Kanom Fu",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67011,
+        "lon": 100.45129
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67101,
+          "lon": 100.45036
+        },
+        "btmRightPoint": {
+          "lat": 13.66921,
+          "lon": 100.45222
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66999,
+            "lon": 100.45136
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003203282",
+      "score": 2.5679416656,
+      "dist": 4533.650005197718,
+      "info": "search:ta:764009003203282-TH",
+      "poi": {
+        "name": "Pia-Fu",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II",
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II, Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6701,
+        "lon": 100.45125
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.671,
+          "lon": 100.45032
+        },
+        "btmRightPoint": {
+          "lat": 13.6692,
+          "lon": 100.45218
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66997,
+            "lon": 100.45133
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002263271",
+      "score": 2.5677540302,
+      "dist": 4598.383005691686,
+      "info": "search:ta:764009002263271-TH",
+      "poi": {
+        "name": "Lucky Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Charoen Krung",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Charoen Krung, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69447,
+        "lon": 100.49378
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69537,
+          "lon": 100.49285
+        },
+        "btmRightPoint": {
+          "lat": 13.69357,
+          "lon": 100.49471
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69434,
+            "lon": 100.49389
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001557429",
+      "score": 2.5677056313,
+      "dist": 4614.8712330275175,
+      "info": "search:ta:764009001557429-TH",
+      "poi": {
+        "name": "Bow Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "2466/3",
+        "streetName": "Thanon Charoen Krung",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "2466/3, Thanon Charoen Krung, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6946,
+        "lon": 100.49397
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6955,
+          "lon": 100.49304
+        },
+        "btmRightPoint": {
+          "lat": 13.6937,
+          "lon": 100.4949
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69449,
+            "lon": 100.49407
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001255688",
+      "score": 2.5673825741,
+      "dist": 4723.760106426447,
+      "info": "search:ta:764009001255688-TH",
+      "poi": {
+        "name": "Pang Pang Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Nakhon Kuan Kan",
+        "municipalitySubdivision": "Talat",
+        "municipality": "Phra Pradaeng",
+        "countrySecondarySubdivision": "Amphoe Phra Pradaeng",
+        "countrySubdivision": "Changwat Samut Prakan",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Nakhon Kuan Kan, Talat Sub District, Amphoe Phra Pradaeng District, Changwat Samut Prakan 10130",
+        "localName": "Amphoe Phra Pradaeng"
+      },
+      "position": {
+        "lat": 13.65993,
+        "lon": 100.53268
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66083,
+          "lon": 100.53175
+        },
+        "btmRightPoint": {
+          "lat": 13.65903,
+          "lon": 100.53361
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65982,
+            "lon": 100.53262
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003060077",
+      "score": 2.5672340393,
+      "dist": 4773.031171170626,
+      "info": "search:ta:764009003060077-TH",
+      "poi": {
+        "name": "Bakery House",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Nakhon Kuan Kan",
+        "municipalitySubdivision": "Talat",
+        "municipality": "Phra Pradaeng",
+        "countrySecondarySubdivision": "Amphoe Phra Pradaeng",
+        "countrySubdivision": "Changwat Samut Prakan",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Nakhon Kuan Kan, Talat Sub District, Amphoe Phra Pradaeng District, Changwat Samut Prakan 10130",
+        "localName": "Amphoe Phra Pradaeng"
+      },
+      "position": {
+        "lat": 13.65962,
+        "lon": 100.53319
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66052,
+          "lon": 100.53226
+        },
+        "btmRightPoint": {
+          "lat": 13.65872,
+          "lon": 100.53412
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65954,
+            "lon": 100.53314
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001262006",
+      "score": 2.5672004223,
+      "dist": 4784.050548497828,
+      "info": "search:ta:764009001262006-TH",
+      "poi": {
+        "name": "R Cherry Bakery",
+        "phone": "+66 2 468 5531",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "1902",
+        "streetName": "Soi Somdet Phra Chao Tak Sin 44",
+        "municipalitySubdivision": "Thon Buri",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10600",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "1902, Soi Somdet Phra Chao Tak Sin 44, Thon Buri Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10600",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69578,
+        "lon": 100.48231
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69668,
+          "lon": 100.48138
+        },
+        "btmRightPoint": {
+          "lat": 13.69488,
+          "lon": 100.48324
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69587,
+            "lon": 100.48232
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001256440",
+      "score": 2.5671916008,
+      "dist": 4787.025342407414,
+      "info": "search:ta:764009001256440-TH",
+      "poi": {
+        "name": "Sazaki Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Nakhon Kuan Kan",
+        "municipalitySubdivision": "Talat",
+        "municipality": "Phra Pradaeng",
+        "countrySecondarySubdivision": "Amphoe Phra Pradaeng",
+        "countrySubdivision": "Changwat Samut Prakan",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Nakhon Kuan Kan, Talat Sub District, Amphoe Phra Pradaeng District, Changwat Samut Prakan 10130",
+        "localName": "Amphoe Phra Pradaeng"
+      },
+      "position": {
+        "lat": 13.65956,
+        "lon": 100.53333
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66046,
+          "lon": 100.5324
+        },
+        "btmRightPoint": {
+          "lat": 13.65866,
+          "lon": 100.53426
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65947,
+            "lon": 100.53328
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001246319",
+      "score": 2.5671010017,
+      "dist": 4816.743809902294,
+      "info": "search:ta:764009001246319-TH",
+      "poi": {
+        "name": "Hut Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Nakhon Kuan Kan",
+        "municipalitySubdivision": "Talat",
+        "municipality": "Phra Pradaeng",
+        "countrySecondarySubdivision": "Amphoe Phra Pradaeng",
+        "countrySubdivision": "Changwat Samut Prakan",
+        "postalCode": "10130",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Nakhon Kuan Kan, Talat Sub District, Amphoe Phra Pradaeng District, Changwat Samut Prakan 10130",
+        "localName": "Amphoe Phra Pradaeng"
+      },
+      "position": {
+        "lat": 13.65913,
+        "lon": 100.53367
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66003,
+          "lon": 100.53274
+        },
+        "btmRightPoint": {
+          "lat": 13.65823,
+          "lon": 100.5346
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.65922,
+            "lon": 100.53373
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003675855",
+      "score": 2.5669958591,
+      "dist": 4851.020273972419,
+      "info": "search:ta:764009003675855-TH",
+      "poi": {
+        "name": "Che Luck Mango Sticky Rice",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Charoen Krung 107",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Charoen Krung 107, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69299,
+        "lon": 100.50819
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69389,
+          "lon": 100.50726
+        },
+        "btmRightPoint": {
+          "lat": 13.69209,
+          "lon": 100.50912
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69309,
+            "lon": 100.50822
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001228904",
+      "score": 2.5669741631,
+      "dist": 4858.064489521472,
+      "info": "search:ta:764009001228904-TH",
+      "poi": {
+        "name": "Mister Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "1093",
+        "streetName": "Soi Somdet Phra Chao Tak Sin 39",
+        "municipalitySubdivision": "Thon Buri",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10600",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "1093, Soi Somdet Phra Chao Tak Sin 39, Thon Buri Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10600",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69658,
+        "lon": 100.48316
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69748,
+          "lon": 100.48223
+        },
+        "btmRightPoint": {
+          "lat": 13.69568,
+          "lon": 100.48409
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69654,
+            "lon": 100.48328
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001261886",
+      "score": 2.5668780804,
+      "dist": 4889.172973013752,
+      "info": "search:ta:764009001261886-TH",
+      "poi": {
+        "name": "Pornmaree Bakery",
+        "phone": "+66 2 689 9756",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "513/140",
+        "streetName": "Soi Charoen Krung 107",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "513/140, Soi Charoen Krung 107, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69294,
+        "lon": 100.50913
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69384,
+          "lon": 100.5082
+        },
+        "btmRightPoint": {
+          "lat": 13.69204,
+          "lon": 100.51006
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69279,
+            "lon": 100.50909
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001257364",
+      "score": 2.5668766499,
+      "dist": 4889.591634470903,
+      "info": "search:ta:764009001257364-TH",
+      "poi": {
+        "name": "S&A Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "515/2",
+        "streetName": "Soi Charoen Krung 107",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "515/2, Soi Charoen Krung 107, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69285,
+        "lon": 100.50933
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69375,
+          "lon": 100.5084
+        },
+        "btmRightPoint": {
+          "lat": 13.69195,
+          "lon": 100.51026
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69273,
+            "lon": 100.50928
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001231131",
+      "score": 2.5668199062,
+      "dist": 4907.83639295311,
+      "info": "search:ta:764009001231131-TH",
+      "poi": {
+        "name": "Krirk Chai Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "712/14",
+        "streetName": "Soi Charoen Krung 107",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "712/14, Soi Charoen Krung 107, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69639,
+        "lon": 100.49945
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69729,
+          "lon": 100.49852
+        },
+        "btmRightPoint": {
+          "lat": 13.69549,
+          "lon": 100.50038
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69646,
+            "lon": 100.49951
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009000919696",
+      "score": 2.5668179989,
+      "dist": 4908.547637132166,
+      "info": "search:ta:764009000919696-TH",
+      "poi": {
+        "name": "Ceramic Sanitaryware",
+        "phone": "+66 2 463 9281",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Pracha Uthit",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Pracha Uthit, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.61381,
+        "lon": 100.50974
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.61471,
+          "lon": 100.50881
+        },
+        "btmRightPoint": {
+          "lat": 13.61291,
+          "lon": 100.51067
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.61374,
+            "lon": 100.50987
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001247438",
+      "score": 2.5667042732,
+      "dist": 4944.83072167281,
+      "info": "search:ta:764009001247438-TH",
+      "poi": {
+        "name": "Ban Mo Victorian Milk Bread",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Charoen Krung 107",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Charoen Krung 107, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69694,
+        "lon": 100.49843
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69784,
+          "lon": 100.4975
+        },
+        "btmRightPoint": {
+          "lat": 13.69604,
+          "lon": 100.49936
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69703,
+            "lon": 100.49847
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003365871",
+      "score": 2.5666742325,
+      "dist": 4954.459330233555,
+      "info": "search:ta:764009003365871-TH",
+      "poi": {
+        "name": "Miss Mamon",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama III",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama III, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68731,
+        "lon": 100.51915
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68821,
+          "lon": 100.51822
+        },
+        "btmRightPoint": {
+          "lat": 13.68641,
+          "lon": 100.52008
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68683,
+            "lon": 100.5189
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009004151968",
+      "score": 2.5665249825,
+      "dist": 5001.742100688894,
+      "info": "search:ta:764009004151968-TH",
+      "poi": {
+        "name": "JJ Bakery Mart",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Tha Kham 23",
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Tha Kham 23, Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.64036,
+        "lon": 100.44517
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.64126,
+          "lon": 100.44424
+        },
+        "btmRightPoint": {
+          "lat": 13.63946,
+          "lon": 100.4461
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.64048,
+            "lon": 100.44516
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009000872754",
+      "score": 2.5661659241,
+      "dist": 5113.816940641449,
+      "info": "search:ta:764009000872754-TH",
+      "poi": {
+        "name": "Chairuangkij Ceramic",
+        "phone": "+66 2 476 4218",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "606-608",
+        "streetName": "Thanon Charoen Nakhon",
+        "municipalitySubdivision": "Thon Buri",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10600",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "606-608, Thanon Charoen Nakhon, Thon Buri Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10600",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69924,
+        "lon": 100.48678
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.70014,
+          "lon": 100.48585
+        },
+        "btmRightPoint": {
+          "lat": 13.69834,
+          "lon": 100.48771
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69921,
+            "lon": 100.48691
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001221895",
+      "score": 2.5658926964,
+      "dist": 5197.5390704084675,
+      "info": "search:ta:764009001221895-TH",
+      "poi": {
+        "name": "Ying Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "1028/62",
+        "streetName": "Soi Sathu Pradit 58",
+        "municipalitySubdivision": "Yannawa",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "1028/62, Soi Sathu Pradit 58, Yannawa Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68499,
+        "lon": 100.52488
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68589,
+          "lon": 100.52395
+        },
+        "btmRightPoint": {
+          "lat": 13.68409,
+          "lon": 100.52581
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68509,
+            "lon": 100.52495
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000021871",
+      "score": 2.565789938,
+      "dist": 5228.663428869826,
+      "info": "search:ta:764007000021871-TH",
+      "poi": {
+        "name": "The Deli House",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66346,
+        "lon": 100.44224
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66436,
+          "lon": 100.44131
+        },
+        "btmRightPoint": {
+          "lat": 13.66256,
+          "lon": 100.44317
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66349,
+            "lon": 100.44234
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003222286",
+      "score": 2.5655136108,
+      "dist": 5311.590352217747,
+      "info": "search:ta:764009003222286-TH",
+      "poi": {
+        "name": "Baker Baka Éclair Studio",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Charoen Rat",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Charoen Rat, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69551,
+        "lon": 100.51256
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69641,
+          "lon": 100.51163
+        },
+        "btmRightPoint": {
+          "lat": 13.69461,
+          "lon": 100.51349
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69542,
+            "lon": 100.51275
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001212778",
+      "score": 2.565513134,
+      "dist": 5311.794609131581,
+      "info": "search:ta:764009001212778-TH",
+      "poi": {
+        "name": "Nu Nui Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "133",
+        "streetName": "Soi Chom Thong 11",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "133, Soi Chom Thong 11, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69794,
+        "lon": 100.47192
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69884,
+          "lon": 100.47099
+        },
+        "btmRightPoint": {
+          "lat": 13.69704,
+          "lon": 100.47285
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69789,
+            "lon": 100.472
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001249661",
+      "score": 2.5655121803,
+      "dist": 5312.013459962229,
+      "info": "search:ta:764009001249661-TH",
+      "poi": {
+        "name": "Kai Bakery",
+        "phone": "+66 89 112 6961",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Rama II Soi 50",
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Rama II Soi 50, Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66848,
+        "lon": 100.44287
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66938,
+          "lon": 100.44194
+        },
+        "btmRightPoint": {
+          "lat": 13.66758,
+          "lon": 100.4438
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66845,
+            "lon": 100.44296
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002319433",
+      "score": 2.5654735565,
+      "dist": 5323.45105789551,
+      "info": "search:ta:764009002319433-TH",
+      "poi": {
+        "name": "Mani Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Charoen Krung",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Charoen Krung, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.70002,
+        "lon": 100.50037
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.70092,
+          "lon": 100.49944
+        },
+        "btmRightPoint": {
+          "lat": 13.69912,
+          "lon": 100.5013
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.70009,
+            "lon": 100.5003
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002999909",
+      "score": 2.5654532909,
+      "dist": 5329.579809862999,
+      "info": "search:ta:764009002999909-TH",
+      "poi": {
+        "name": "Hong Ahan Mani Lae Be Ke-A Ri",
+        "phone": "+66 2 911 1105",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "2751/13",
+        "streetName": "Soi Charoen Krung 103/2",
+        "municipalitySubdivision": "Bang Kho Laem",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "2751/13, Soi Charoen Krung 103/2, Bang Kho Laem Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.70005,
+        "lon": 100.50049
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.70095,
+          "lon": 100.49956
+        },
+        "btmRightPoint": {
+          "lat": 13.69915,
+          "lon": 100.50142
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.70014,
+            "lon": 100.50053
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003183250",
+      "score": 2.5654296875,
+      "dist": 5336.490520271157,
+      "info": "search:ta:764009003183250-TH",
+      "poi": {
+        "name": "Wan Yen Tua A",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Pracha Uthit 90",
+        "municipalitySubdivision": "Thung Khru",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10140",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Pracha Uthit 90, Thung Khru Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10140",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6086,
+        "lon": 100.5074
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6095,
+          "lon": 100.50647
+        },
+        "btmRightPoint": {
+          "lat": 13.6077,
+          "lon": 100.50833
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.60851,
+            "lon": 100.50748
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001249857",
+      "score": 2.5653674603,
+      "dist": 5354.914218951683,
+      "info": "search:ta:764009001249857-TH",
+      "poi": {
+        "name": "Ratch Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "653/7",
+        "streetName": "Soi Sathu Pradit 57",
+        "municipalitySubdivision": "Yannawa",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "653/7, Soi Sathu Pradit 57, Yannawa Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.68033,
+        "lon": 100.53053
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68123,
+          "lon": 100.5296
+        },
+        "btmRightPoint": {
+          "lat": 13.67943,
+          "lon": 100.53146
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68045,
+            "lon": 100.53063
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000037218",
+      "score": 2.5653617382,
+      "dist": 5356.6360290747,
+      "info": "search:ta:764007000037218-TH",
+      "poi": {
+        "name": "Bonjour",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66157,
+        "lon": 100.44065
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66247,
+          "lon": 100.43972
+        },
+        "btmRightPoint": {
+          "lat": 13.66067,
+          "lon": 100.44158
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.6618,
+            "lon": 100.44093
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003517948",
+      "score": 2.5653312206,
+      "dist": 5365.625385402081,
+      "info": "search:ta:764009003517948-TH",
+      "poi": {
+        "name": "PonMaree Bakery Sathu Pradit Branch",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thanon Sathu Pradit",
+        "municipalitySubdivision": "Yannawa",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Thanon Sathu Pradit, Yannawa Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.6807,
+        "lon": 100.53039
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.6816,
+          "lon": 100.52946
+        },
+        "btmRightPoint": {
+          "lat": 13.6798,
+          "lon": 100.53132
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.68063,
+            "lon": 100.5305
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009001214627",
+      "score": 2.5652289391,
+      "dist": 5395.719929744174,
+      "info": "search:ta:764009001214627-TH",
+      "poi": {
+        "name": "Po Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "221/1",
+        "streetName": "Thanon Chom Thong",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "221/1, Thanon Chom Thong, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69837,
+        "lon": 100.47092
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69927,
+          "lon": 100.46999
+        },
+        "btmRightPoint": {
+          "lat": 13.69747,
+          "lon": 100.47185
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69849,
+            "lon": 100.47098
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009000904099",
+      "score": 2.5652015209,
+      "dist": 5403.712468958045,
+      "info": "search:ta:764009000904099-TH",
+      "poi": {
+        "name": "Saengthong",
+        "phone": "+66 2 460 0760",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "122/107",
+        "streetName": "Thanon Chom Thong",
+        "municipalitySubdivision": "Chom Thong",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "122/107, Thanon Chom Thong, Chom Thong Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.69854,
+        "lon": 100.47116
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.69944,
+          "lon": 100.47023
+        },
+        "btmRightPoint": {
+          "lat": 13.69764,
+          "lon": 100.47209
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.69843,
+            "lon": 100.4711
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002330983",
+      "score": 2.5651304722,
+      "dist": 5424.543633710964,
+      "info": "search:ta:764009002330983-TH",
+      "poi": {
+        "name": "Nittaya Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Sathu Pradit 57",
+        "municipalitySubdivision": "Yannawa",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Sathu Pradit 57, Yannawa Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67976,
+        "lon": 100.53169
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.68066,
+          "lon": 100.53076
+        },
+        "btmRightPoint": {
+          "lat": 13.67886,
+          "lon": 100.53262
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67967,
+            "lon": 100.53161
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009002273388",
+      "score": 2.5647435188,
+      "dist": 5536.357895009273,
+      "info": "search:ta:764009002273388-TH",
+      "poi": {
+        "name": "Mhor Ya Medical Supplies",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Sathu Pradit 57",
+        "municipalitySubdivision": "Yannawa",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10120",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Sathu Pradit 57, Yannawa Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10120",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.67638,
+        "lon": 100.53491
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.67728,
+          "lon": 100.53398
+        },
+        "btmRightPoint": {
+          "lat": 13.67548,
+          "lon": 100.53584
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.67631,
+            "lon": 100.53485
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764009003406253",
+      "score": 2.5646982193,
+      "dist": 5549.338986778549,
+      "info": "search:ta:764009003406253-TH",
+      "poi": {
+        "name": "Chez Recamier Central Rama 2",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66376,
+        "lon": 100.43927
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66466,
+          "lon": 100.43834
+        },
+        "btmRightPoint": {
+          "lat": 13.66286,
+          "lon": 100.4402
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66389,
+            "lon": 100.43959
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "764007000022337",
+      "score": 2.5646760464,
+      "dist": 5555.663865556034,
+      "info": "search:ta:764007000022337-TH",
+      "poi": {
+        "name": "April's Bakery",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Bang Khun Thian",
+        "municipality": "Krungthepmahanakhon",
+        "countrySecondarySubdivision": "Krungthepmahanakhon",
+        "countrySubdivision": "Krung Thep Maha Nakhon",
+        "postalCode": "10150",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Bang Khun Thian Sub District, Krungthepmahanakhon District, Krung Thep Maha Nakhon 10150",
+        "localName": "Krungthepmahanakhon"
+      },
+      "position": {
+        "lat": 13.66385,
+        "lon": 100.43923
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 13.66475,
+          "lon": 100.4383
+        },
+        "btmRightPoint": {
+          "lat": 13.66295,
+          "lon": 100.44016
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 13.66397,
+            "lon": 100.43956
+          }
+        }
+      ]
+    }
+  ]
+
+  }
